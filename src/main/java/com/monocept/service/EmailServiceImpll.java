@@ -9,6 +9,7 @@ public class EmailServiceImpll implements EmailService{
 	public void sendEmail() {
 		System.out.println("Email sent successfully.......");
 		System.out.println("changes made inside local repository....");
+		System.out.println("checking for graph after commiting once again");
 	}
 
 	
